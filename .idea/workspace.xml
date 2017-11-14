@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c392beb-0122-4223-8c8a-46ec1b897a12" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/appengine/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/appengine/app.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/appengine/apple-touch-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/appengine/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/appengine/index.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/appengine/index_redirect.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/appengine/redirect.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/appengine/robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/appengine/storage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/appengine/storage.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blockly_accessible_compressed.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blocks/colour.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blocks/lists.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blocks/logic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blocks/loops.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blocks/math.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blocks/procedures.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blocks/text.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blocks/variables.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dart_compressed.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/accessible/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/accessible/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/blockfactory/analytics.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/blockfactory/app_controller.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/blockfactory/block_definition_extractor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/blockfactory/block_exporter_controller.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/blockfactory/block_exporter_tools.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/blockfactory/block_exporter_view.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/blockfactory/block_library_controller.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/blockfactory/block_library_storage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/blockfactory/block_library_view.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/blockfactory/block_option.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/blockfactory/blocks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/blockfactory/factory.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/blockfactory/factory.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/blockfactory/factory_utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/blockfactory/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/blockfactory/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/blockfactory/link.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/blockfactory/standard_categories.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/blockfactory/workspacefactory/wfactory_controller.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/blockfactory/workspacefactory/wfactory_generator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/blockfactory/workspacefactory/wfactory_init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/blockfactory/workspacefactory/wfactory_model.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/blockfactory/workspacefactory/wfactory_view.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/blockfactory_old/blocks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/blockfactory_old/factory.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/blockfactory_old/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/blockfactory_old/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/blockfactory_old/link.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/code.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/ar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/be-tarask.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/br.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/cs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/da.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/de.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/el.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/en.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/es.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/et.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/fa.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/fr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/he.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/hrx.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/hu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/ia.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/is.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/it.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/ja.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/kab.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/ko.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/mk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/ms.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/nb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/nl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/oc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/pl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/pms.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/pt-br.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/ro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/ru.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/sc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/sk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/sr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/sv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/ta.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/th.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/tlh.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/tr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/uk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/vi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/zh-hans.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/msg/zh-hant.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/code/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/codelab/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/codelab/app-complete/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/codelab/app-complete/scripts/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/codelab/app-complete/scripts/music_maker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/codelab/app-complete/scripts/sound_blocks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/codelab/app-complete/sounds/c4.m4a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/codelab/app-complete/sounds/c5.m4a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/codelab/app-complete/sounds/d4.m4a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/codelab/app-complete/sounds/e4.m4a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/codelab/app-complete/sounds/f4.m4a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/codelab/app-complete/sounds/g4.m4a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/codelab/app-complete/styles/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/codelab/app/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/codelab/app/scripts/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/codelab/app/scripts/music_maker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/codelab/app/sounds/c4.m4a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/codelab/app/sounds/c5.m4a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/codelab/app/sounds/d4.m4a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/codelab/app/sounds/e4.m4a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/codelab/app/sounds/f4.m4a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/codelab/app/sounds/g4.m4a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/codelab/app/styles/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/custom-dialogs/custom-dialog.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/custom-dialogs/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/fixed-advanced/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/fixed-advanced/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/fixed/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/fixed/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/generator/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/generator/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/graph/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/graph/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/headless/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/headless/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/interpreter/acorn_interpreter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/interpreter/async-execution.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/interpreter/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/interpreter/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/interpreter/step-execution.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/interpreter/wait_block.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/maxBlocks/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/maxBlocks/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/minimap/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/minimap/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/minimap/minimap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/mirror/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/mirror/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/blocks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/generated/ar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/generated/be-tarask.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/generated/br.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/generated/ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/generated/da.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/generated/de.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/generated/el.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/generated/en.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/generated/es.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/generated/et.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/generated/fa.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/generated/fr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/generated/he.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/generated/hrx.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/generated/hu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/generated/ia.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/generated/is.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/generated/it.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/generated/ja.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/generated/ko.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/generated/ms.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/generated/nb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/generated/nl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/generated/pl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/generated/pms.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/generated/pt-br.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/generated/ro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/generated/ru.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/generated/sc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/generated/sv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/generated/th.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/generated/tr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/generated/uk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/generated/vi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/generated/zh-hans.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/generated/zh-hant.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/plane.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/slider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/soy/COPYING" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/soy/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/soy/SoyMsgExtractor.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/soy/SoyToJsSrcCompiler.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/soy/soyutils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/template.soy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/xlf/extracted_msgs.xlf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/xlf/translated_msgs_ar.xlf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/xlf/translated_msgs_be-tarask.xlf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/xlf/translated_msgs_br.xlf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/xlf/translated_msgs_ca.xlf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/xlf/translated_msgs_da.xlf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/xlf/translated_msgs_de.xlf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/xlf/translated_msgs_el.xlf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/xlf/translated_msgs_en.xlf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/xlf/translated_msgs_es.xlf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/xlf/translated_msgs_et.xlf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/xlf/translated_msgs_fa.xlf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/xlf/translated_msgs_fr.xlf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/xlf/translated_msgs_he.xlf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/xlf/translated_msgs_hrx.xlf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/xlf/translated_msgs_hu.xlf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/xlf/translated_msgs_ia.xlf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/xlf/translated_msgs_is.xlf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/xlf/translated_msgs_it.xlf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/xlf/translated_msgs_ja.xlf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/xlf/translated_msgs_ko.xlf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/xlf/translated_msgs_ms.xlf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/xlf/translated_msgs_nb.xlf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/xlf/translated_msgs_nl.xlf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/xlf/translated_msgs_pl.xlf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/xlf/translated_msgs_pms.xlf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/xlf/translated_msgs_pt-br.xlf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/xlf/translated_msgs_ro.xlf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/xlf/translated_msgs_ru.xlf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/xlf/translated_msgs_sc.xlf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/xlf/translated_msgs_sv.xlf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/xlf/translated_msgs_th.xlf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/xlf/translated_msgs_tr.xlf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/xlf/translated_msgs_uk.xlf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/xlf/translated_msgs_vi.xlf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/xlf/translated_msgs_zh-hans.xlf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/plane/xlf/translated_msgs_zh-hant.xlf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/resizable/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/resizable/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/resizable/overlay.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/rtl/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/rtl/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/storage/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/storage/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/toolbox/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/toolbox/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/externs/svg-externs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/dart.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/dart/colour.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/dart/lists.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/dart/logic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/dart/loops.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/dart/math.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/dart/procedures.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/dart/text.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/dart/variables.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/javascript.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/javascript/colour.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/javascript/lists.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/javascript/logic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/javascript/loops.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/javascript/math.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/javascript/procedures.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/javascript/text.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/javascript/variables.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/lua.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/lua/colour.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/lua/lists.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/lua/logic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/lua/loops.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/lua/math.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/lua/procedures.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/lua/text.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/lua/variables.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/php.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/php/colour.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/php/lists.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/php/logic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/php/loops.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/php/math.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/php/procedures.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/php/text.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/php/variables.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/python.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/python/colour.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/python/lists.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/python/logic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/python/loops.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/python/math.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/python/procedures.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/python/text.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/python/variables.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i18n/common.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i18n/create_messages.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i18n/dedup_json.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i18n/js_to_json.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i18n/json_to_js.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i18n/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i18n/xliff_to_json.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/javascript_compressed.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lua_compressed.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1x1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/click.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/click.ogg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/click.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/delete.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/delete.ogg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/delete.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/disconnect.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/disconnect.ogg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/disconnect.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/handclosed.cur" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/handdelete.cur" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/handopen.cur" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/quote0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/quote1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/sprites.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/sprites.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/ab.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/ar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/az.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/ba.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/bcc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/be-tarask.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/bg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/bn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/br.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/cs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/da.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/de.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/diq.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/el.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/en-gb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/en.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/eo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/es.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/et.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/fa.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/fi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/fr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/he.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/hi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/hrx.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/hu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/ia.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/id.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/is.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/it.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/ja.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/kab.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/ko.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/lb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/lki.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/lrc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/lt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/lv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/mk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/ms.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/nb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/nl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/oc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/pl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/pms.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/pt-br.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/pt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/ro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/ru.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/sc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/sd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/shn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/sk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/sl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/sq.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/sr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/sv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/ta.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/tcy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/th.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/tl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/tlh.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/tr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/uk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/vi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/zh-hans.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/js/zh-hant.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/ab.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/ar.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/az.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/ba.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/bcc.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/be-tarask.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/be.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/bg.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/bn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/br.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/ca.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/constants.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/cs.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/da.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/de.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/diq.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/el.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/en-gb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/en.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/eo.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/es.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/et.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/fa.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/fi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/fr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/he.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/hi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/hrx.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/hu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/ia.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/id.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/is.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/it.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/ja.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/kab.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/ko.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/lb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/lki.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/lrc.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/lt.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/lv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/mk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/ms.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/nb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/nl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/oc.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/pl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/pms.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/pt-br.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/pt.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/qqq.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/ro.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/ru.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/sc.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/sd.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/shn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/sk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/sl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/sq.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/sr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/sv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/synonyms.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/ta.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/tcy.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/th.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/tl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/tlh.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/tr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/uk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/vi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/zh-hans.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/json/zh-hant.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/msg/messages.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/php_compressed.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python_compressed.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blockly_accessible_uncompressed.js" afterPath="$PROJECT_DIR$/blockly_accessible_uncompressed.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blockly_compressed.js" afterPath="$PROJECT_DIR$/blockly_compressed.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blockly_uncompressed.js" afterPath="$PROJECT_DIR$/blockly_uncompressed.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blocks_compressed.js" afterPath="$PROJECT_DIR$/blocks_compressed.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.py" afterPath="$PROJECT_DIR$/build.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="build.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5625">
+              <caret line="375" column="38" lean-forward="true" selection-start-line="375" selection-start-column="38" selection-end-line="375" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Gen_langfiles</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="blockly-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blockly-core" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v6.9.1/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c392beb-0122-4223-8c8a-46ec1b897a12" name="Default" comment="" />
+      <created>1510646237633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1510646237633</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/builtins.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="33" column="4" lean-forward="false" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python3/3.6.2/Frameworks/Python.framework/Versions/3.6/lib/python3.6/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="827" column="20" lean-forward="true" selection-start-line="827" selection-start-column="20" selection-end-line="827" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5625">
+          <caret line="375" column="38" lean-forward="true" selection-start-line="375" selection-start-column="38" selection-end-line="375" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
